@@ -1,9 +1,9 @@
 # Sanghamitra-Malakar-25BAI10731
-# 🏋️ Gym Membership Management Application
+#  Gym Membership Management Application
 
 This is a simple command-line Python application for managing gym members. It uses a class-based structure (`GymMembershipApp`) to handle basic CRUD (Create, Read, Update, Delete) operations on member records.
 
-## ✨ Features
+## Features
 
 * **Add Member:** Register a new member with a name, age, and initial membership type. Automatically assigns a unique member ID.
 * **View Members:** Display a list of all currently registered members and their details.
@@ -11,7 +11,7 @@ This is a simple command-line Python application for managing gym members. It us
 * **Update Membership:** Change the membership type (e.g., Monthly to Yearly) for an existing member.
 * **Delete Member:** Remove a member's record from the system using their ID.
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 
@@ -28,7 +28,7 @@ You need to have **Python 3** installed on your system.
 
 3.  **Use the Menu:** The application will start and present a menu. Enter the number corresponding to the action you wish to perform (1 through 6).
 
-## 💡 How It Works
+## How It Works
 
 The application is built around the `GymMembershipApp` class, which manages member data using a Python dictionary:
 
@@ -49,7 +49,7 @@ The application is built around the `GymMembershipApp` class, which manages memb
 
 ---
 
-## 📝 Example Session
+##  Example Session
 
 1.  **Run the app:**
     ```bash
