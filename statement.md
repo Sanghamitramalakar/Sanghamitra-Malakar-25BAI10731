@@ -39,4 +39,3 @@ We are committed to enhancing the utility and robustness of this application.
 
 ---
 
-*This statement was last updated on 2025-11-24.*
