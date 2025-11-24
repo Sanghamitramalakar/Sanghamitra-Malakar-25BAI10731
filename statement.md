@@ -1,4 +1,4 @@
-# 📢 Project Statement: Gym Membership Management Application
+# Project Statement: Gym Membership Management Application
 
 ## 1. Purpose and Scope
 
